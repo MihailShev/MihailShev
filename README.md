@@ -20,7 +20,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-    <a href="https://linkedin.com/in/myhailo-shevchenko" target="_blank">
+    <a href="https://www.linkedin.com/in/shevchenko-myhailo/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
      <a href="https://t.me/MyhailShev" target="_blank">
