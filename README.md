@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Backend (API) for a recipe website](https://github.com/MihailShev/project_tasteorama_api)
 - 🌱 I’m currently learning **MySQL**
 - 📫 Reach me at: **mykh.shev4enko@gmail.com**
-- 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/1_EzZx0JMdpm7KdA-CverL87rlWdzpnVy/view?usp=sharing)
+- 📄 Know about my experiences: [View my resume]((https://drive.google.com/file/d/16Na9Gi3gF0vePMM0vvcwEGgSJT26QJki/view?usp=sharing))
 - ⚡ Fun fact: _I practice calisthenics in my free time._
 
 ---
