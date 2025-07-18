@@ -20,9 +20,12 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/myhailo-shevchenko" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+    <a href="https://linkedin.com/in/myhailo-shevchenko" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+     <a href="https://t.me/MyhailShev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+     </a>
 </p>
 
 ---
