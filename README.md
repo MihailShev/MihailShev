@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Myhailo</h1>
 <h3 align="center">Junior web developer passionate about backend development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihailshev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 🔧 About Me
