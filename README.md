@@ -50,11 +50,7 @@
 
 ---
 
-### 🏆 Trophies & Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MihailShev&theme=onedark" />
-</p>
+### 📊 Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihailshev&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
