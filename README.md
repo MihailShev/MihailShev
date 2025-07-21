@@ -52,10 +52,8 @@
 
 ### 🏆 Trophies & Stats
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=mihailshev&theme=tokyonight" alt="GitHub Trophies"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MihailShev&theme=onedark" />
 </p>
 
 <p align="left">
